@@ -1,0 +1,60 @@
+/* Inserta tu CSS aqui */
+div {
+	background: #848484;
+	color: #848484;
+	
+}
+.uno {
+ 	width: 100px;
+	height: 100px;
+	margin: 16px 0px;
+}
+.contenedor { border: 1px solid black;
+	width: 380px;
+	height: 150px;
+	
+}
+.dos {
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	top: 21.5px;
+	left: 25px;
+	position: relative;
+	
+}
+.tres {
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	position:relative;
+	left: 140px;
+	bottom: 80px;
+}
+.cuatro {
+	border: 1px solid black;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 255px;
+	bottom: 181px;
+}
+.cinco {
+	width: 100px;
+	height: 100px;
+	
+}
+.seis {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 120px;
+	bottom: 115px;
+
+}
+.siete {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	bottom: 115px;
+}
